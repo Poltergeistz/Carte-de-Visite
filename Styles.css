@@ -1,0 +1,29 @@
+div {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px;
+    width: 402px;
+    height: 255px;}
+
+p.small
+{
+    font-size: small;
+}
+img.Code {
+    z-index: O;
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    width: 402px;
+    height: 255px;
+    opacity: 0.5;
+}
+
+img.QR {
+    z-index: 2;
+    position: absolute;
+    left: 300px;
+    top: 150px;
+    width: 100px;
+    height: 100px;
+}
